@@ -1,4 +1,4 @@
-#1st making challenge theme is: make a game but in less than 30 lines (i will make a guessing game it ez)
+#1st making challenge theme is: make a game but code less than 30 lines (i will make a guessing game it ez)
 from random import randint
 
 your_number = 0
