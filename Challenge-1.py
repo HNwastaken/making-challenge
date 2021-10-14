@@ -2,15 +2,13 @@
 from random import randint
 
 your_number = 0
-answer = 0
+answer = randint(0,99999)
 time_guess = 0
 
 print("wellcome to guessing game, the game to think about number or something")
 print("how to play write a number have 1 to 5 digits and computer will higher! or lower!")
 
 while True:
-    answer = randint(0,99999)
-    time_guess = 0
     your_number = int(input("write number you guessing "))
     time_guess += 1
     if your_number > answer:
