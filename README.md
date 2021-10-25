@@ -3,4 +3,6 @@ i trust make my first challenge is make a game more than 10 lines and less than 
 
   but it anoying when you guessing 100 times but it not right.
   
-  i will think to write  the TIPS in my code soon.
+  i will think to write the TIPS in my code soon.
+# leaks
+  - make a game more than 50 lines and less than 200 lines (the theme is space)
