@@ -6,3 +6,4 @@ i trust make my first challenge is make a game more than 10 lines and less than 
   - i will think to write the TIPS in my code soon.
 # leaks
   -  Challenge 2: make a game more than 50 lines and less than 200 lines (the theme is space)
+  -  Challenge 3: Make A Project That Help you In math =)
